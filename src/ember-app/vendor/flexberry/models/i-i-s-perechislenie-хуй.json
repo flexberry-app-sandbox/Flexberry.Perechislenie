@@ -1,0 +1,54 @@
+﻿{
+  "name": "IISPerechislenieХуй",
+  "modelName": "i-i-s-perechislenie-хуй",
+  "className": "Хуй",
+  "nameSpace": "IIS.Perechislenie",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "перечисление",
+      "type": "i-i-s-perechislenie-хуй1",
+      "flexberryType": "хуй1",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "ХуйE",
+      "modelName": "i-i-s-perechislenie-хуй",
+      "attrs": [
+        {
+          "name": "перечисление",
+          "caption": "Перечисление",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "ХуйL",
+      "modelName": "i-i-s-perechislenie-хуй",
+      "attrs": [
+        {
+          "name": "перечисление",
+          "caption": "Перечисление",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

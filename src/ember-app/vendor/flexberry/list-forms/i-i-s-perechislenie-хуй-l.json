@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-perechislenie-хуй-e",
+  "editForm": "i-i-s-perechislenie-хуй-e",
+  "external": false,
+  "caption": "Хуй",
+  "name": "IISPerechislenieХуйL",
+  "className": "ХуйL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-perechislenie-хуй",
+      "modelProjection": "ХуйL"
+    }
+  ]
+}

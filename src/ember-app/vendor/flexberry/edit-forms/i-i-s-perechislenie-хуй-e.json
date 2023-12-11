@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Хуй",
+  "name": "IISPerechislenieХуйE",
+  "className": "ХуйE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-perechislenie-хуй",
+      "modelProjection": "ХуйE"
+    }
+  ]
+}
